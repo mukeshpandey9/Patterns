@@ -1,3 +1,3 @@
 # Patterns
 
-<h4>In this repo all patterns are uploaded</h4>
+<h4>In this repo all pattern programs are uploaded</h4>
